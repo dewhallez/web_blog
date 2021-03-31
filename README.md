@@ -3,11 +3,11 @@ Web blog application with Django
 
 
 # To Run Project
-create a new directory 
-cd to <new directory>
-git init
-git add <remote repo>
-create virtual enviroment
+1. create a new directory 
+2. cd to <new directory>
+3. git init
+4. git add <remote repo>
+5. create virtual enviroment
 # Requirements
 pip3 install -r requirements.txt
 
