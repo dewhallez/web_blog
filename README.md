@@ -8,7 +8,6 @@ Web blog application with Django
 3. git init
 4. git add <remote repo>
 5. create virtual enviroment
-# Requirements
-pip3 install -r requirements.txt
+6. pip3 install -r requirements.txt
 
 
