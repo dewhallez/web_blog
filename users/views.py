@@ -5,10 +5,10 @@ from django.contrib.auth.forms import UserCreationForm
 
 # Create your views here.
 
-#def logout_views(request):
-    #"""Log the user out."""
-    #logout(request)
-    #return redirect('web_blogs:index')
+def logout_views(request):
+    """Log the user out."""
+    logout(request)
+    return redirect('registration/login.html'. context)
 
 
 def register(request):
